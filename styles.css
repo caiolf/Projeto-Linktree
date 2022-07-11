@@ -21,12 +21,18 @@ body.white {
 	--primary-color-dark: #364fc7;
 }
 body.dark {
-	--bg-color: #020016;
+	--bg-color: #212121;
 	--text-color: #ffffff;
-	--primary-color: #4263eb;
-	--primary-color-dark: #364fc7;
+	--primary-color: #161616;
+	--primary-color-dark: #000000;
 }
 body.purple {
+	--bg-color: #7222ab;
+	--text-color: #ffffff;
+	--primary-color: #b10cc4;
+	--primary-color-dark: #3f0445;
+}
+body.blue {
 	--bg-color: #7222ab;
 	--text-color: #ffffff;
 	--primary-color: #b10cc4;
